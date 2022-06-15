@@ -7,7 +7,7 @@
 # Dependencies  
 This code was working properly on tensroflow 2.3.0.  
   
-# R
+# Requirements  
 Tensorflow 2.X  
 numpy  
 opencv-python  
